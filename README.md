@@ -1,3 +1,21 @@
+!# EPL 2015/16 Player Performance Analysis
+
+## Dashboard Preview
+
+### Home Page
+![Home](images/Home.png) 
+
+### Goal Keeper Analysis
+![Goal Keepers](images/GK.png)
+
+### Defender Analysis
+![Defenders](images/DF.png)
+
+### Medfielders Analysis
+![Medfielders](images/MF.png)
+
+### Attackers Analysis
+![Attackers](images/ST.png)
 # EPL 2015/16 Player Performance Analysis
 
 ## Overview
